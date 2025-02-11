@@ -1,0 +1,11 @@
+[project]
+name = "screenshotsite"
+version = "0.1.0"
+description = "Gather screenshots of a site using your local chrome browser."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.13.3",
+    "requests>=2.32.3",
+    "selenium>=4.28.1",
+]

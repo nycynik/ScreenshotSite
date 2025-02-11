@@ -1,0 +1,4 @@
+.venv
+screenshots
+visited_urls_cache.pkl
+website_screenshot_log.txt
